@@ -1,0 +1,48 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #041e42;
+}
+li {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #13eef1;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 0%;
+}
+
+.gallery {
+    float: left;
+    margin: 10px 5px;
+    width: auto;
+}
+
+.gallery img {
+    width: 180px;
+    height: auto;
+}
+
+.seemore {
+    color: black;
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
